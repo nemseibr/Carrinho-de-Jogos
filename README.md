@@ -1,31 +1,37 @@
-# Carrinho-de-Jogos
-🛒 Simulador de Compras de Jogos para PS5
+# 🛒 Carrinho de Jogos – PS5
 
-Este projeto é um simulador de compras de jogos para Playstation 5, desenvolvido com o objetivo de praticar HTML, CSS e JavaScript. Ele permite ao usuário selecionar jogos, escolher a quantidade desejada e visualizar o total da compra em tempo real.
+Simulador de compras de jogos para Playstation 5, desenvolvido para praticar **HTML, CSS e JavaScript**.
 
-Funcionalidades
+## 📖 Descrição
 
-Lista de jogos populares para PS5 com preços simulados
+Este projeto permite que o usuário:
+- Selecione jogos populares para PS5
+- Escolha a quantidade desejada
+- Visualize o total da compra em tempo real
 
-Seleção de jogos via <select> interativo
+## ✨ Funcionalidades
 
-Exibição dinâmica da imagem do jogo selecionado
+- Lista de jogos populares com preços simulados  
+- Seleção de jogos via `<select>` interativo  
+- Exibição dinâmica da imagem do jogo selecionado  
+- Adição de itens à sacola de compras  
+- Cálculo automático do valor total  
+- Botão para limpar a sacola  
 
-Adição de itens à sacola de compras
+## 🛠 Tecnologias Utilizadas
 
-Cálculo automático do valor total
+- **HTML5** – Estrutura do projeto  
+- **CSS3** – Estilização e layout responsivo  
+- **JavaScript** – Lógica da aplicação  
 
-Botão para limpar a sacola
+## 🎯 Objetivo do Projeto
 
-Tecnologias Utilizadas
+Este projeto foi desenvolvido para fins educacionais, com o objetivo de aprimorar as habilidades em **HTML, CSS e JavaScript** através da criação de um simulador funcional.
 
-HTML5 – Estrutura do projeto
+## 📄 Licença
 
-CSS3 – Estilização e layout responsivo
+Este projeto está sob a licença [MIT](LICENSE).
 
-JavaScript – Lógica da aplicação
-
-Objetivo do Projeto
 
 Este projeto foi criado para fins educacionais, visando o aprimoramento das habilidades em HTML, CSS e JavaScript através da criação de um simulador funcional.
 
